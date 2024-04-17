@@ -12,7 +12,7 @@ import re
 # 管理员 ID
 ADMIN_IDS = [1234567890]
 # 机器人 Token
-BOT_TOKEN = "1234567890:AAEbgLEbVt5h1Yz8p2Iw3f2UpIuJm9FMnbY"
+BOT_TOKEN = "1234567890:Abcdefg"
 # 回复CHAT_ID白名单, 为空则不限制, 设置后只有在白名单内的群组或用户才会回复
 REPLY_CHAT_IDS = []
 
